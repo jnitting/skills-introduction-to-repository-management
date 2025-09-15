@@ -1,7 +1,0 @@
-# Core functionality - changes here should be rare!
-/src/app.py                   @jnitting
-/src/backend/database.py      @jnitting
-/src/backend/routers/auth.py  @jnitting
-
-# The frontend will need refactored soon to be more object oriented.
-/src/static/   @jnitting
